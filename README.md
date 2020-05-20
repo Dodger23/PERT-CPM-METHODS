@@ -4,9 +4,9 @@
 
 This is a R program that takes an activity table whether it is a CPM or a PERT and and proccess it to find the critical path (along with some other calculations in the PERT method )
 
-The Project Evaluation and Review Technique (PERT) and Critical Path Method (CPM)  were developed by management scientists to help organizations with planning,  scheduling and controlling large projects,such as building a new hospital orlaunching a  newproduct.
+The Project Evaluation and Review Technique (PERT) and Critical Path Method (CPM)  were developed by management scientists to help organizations with planning,  scheduling and controlling large projects,such as building a new hospital orlaunching a  new product.
 
-large projects has serie sof interdependent activities that take time to complete,require  funds and resources, such as time andlabor.
+large projects has series of interdependent activities that take time to complete,require  funds and resources, such as time andlabor.
 
 Interdependence means that activities follow a given sequence orprecedence  relationship -some activities cannot start until others are completed.
 
