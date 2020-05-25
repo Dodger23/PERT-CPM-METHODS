@@ -2,7 +2,7 @@
 # Introduction
 
 
-This is a R program that takes an activity table whether it is a CPM or a PERT and and proccess it to find the critical path (along with some other calculations in the PERT method )
+This is an R program that takes an activity table whether it is a CPM or a PERT and and proccess it to find the critical path (along with some other calculations in the PERT method )
 
 The Project Evaluation and Review Technique (PERT) and Critical Path Method (CPM)  were developed by management scientists to help organizations with planning,  scheduling and controlling large projects,such as building a new hospital orlaunching a  new product.
 
